@@ -1,4 +1,10 @@
 # 🎨 KSIU Digital Image Processing - Photo Editor
+<h2 align="center">📸 Program Preview</h2>
+<p align="center">
+  <img src="images/p1.png" width="30%" />
+  <img src="main.png" width="30%" /> 
+  <img src="demo.png" width="30%" />
+</p>
 
 A modern, professional desktop Photo Editor built with Python. This project was developed to apply Digital Image Processing concepts using manual algorithms, matrix operations, and a highly interactive Graphical User Interface (GUI).
 
