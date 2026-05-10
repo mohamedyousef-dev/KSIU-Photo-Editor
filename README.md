@@ -3,7 +3,7 @@
 <h2 align="center">📸 Program Preview</h2>
 <p align="center">
   <img src="images/p1.png" width="30%" />
-  <img src="images/p2-2.png" width="30%" /> 
+  <img src="images/p2-1.png" width="30%" /> 
   <img src="images/p3.png" width="30%" />
 </p>
 
